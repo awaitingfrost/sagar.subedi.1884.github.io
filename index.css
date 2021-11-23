@@ -37,8 +37,8 @@ ul {
 }
 img {
   width: 100%;
-  max-width: 430.65px;
-  max-height: 339px;
+  height: 339px;
+  max-height: 400px;
 }
 figure {
   position: relative;
@@ -161,7 +161,7 @@ h3 {
 
 /* responsive */
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 578px) {
   .whole-content {
     display: grid;
     grid-gap: 1rem 1rem;
