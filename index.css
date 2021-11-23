@@ -161,7 +161,7 @@ h3 {
 
 /* responsive */
 
-@media screen and (min-width: 358px) {
+@media screen and (min-width: 500px) {
   .whole-content {
     display: grid;
     grid-gap: 1rem 1rem;
